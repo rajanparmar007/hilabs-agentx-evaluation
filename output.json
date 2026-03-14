@@ -1,0 +1,14 @@
+{
+    "temporality_error_rate": {
+        "CURRENT": 0,
+        "CLINICAL_HISTORY": 0.0,
+        "UPCOMING": 1.0,
+        "UNCERTAIN": 0
+    },
+    "subject_error_rate": {
+        "PATIENT": 0.0,
+        "FAMILY_MEMBER": 0
+    },
+    "event_date_accuracy": 0.5,
+    "attribute_completeness": 0.88
+}

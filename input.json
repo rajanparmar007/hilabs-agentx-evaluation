@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "text": "Patient had fever last week",
+      "true_temporality": "CLINICAL_HISTORY",
+      "pred_temporality": "CLINICAL_HISTORY",
+      "true_subject": "PATIENT",
+      "pred_subject": "PATIENT",
+      "true_date": "2025-02-10",
+      "pred_date": "2025-02-10",
+      "attributes_total": 4,
+      "attributes_extracted": 4
+    },
+    {
+      "text": "Patient will undergo surgery tomorrow",
+      "true_temporality": "UPCOMING",
+      "pred_temporality": "CURRENT",
+      "true_subject": "PATIENT",
+      "pred_subject": "PATIENT",
+      "true_date": "2025-02-11",
+      "pred_date": "2025-02-12",
+      "attributes_total": 4,
+      "attributes_extracted": 3
+    }
+  ]
+}
